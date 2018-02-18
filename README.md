@@ -13,3 +13,5 @@ Feel free to add another medias with locked content without registration
 * Open Semana.com artcile.
 * After appear the registration modal, click in icon on right top of the browser.
 * Enjoy.
+
+[https://chrome.google.com/webstore/detail/goodbye-registration-sema/dicinhcfdljimdfccohbcdbbmjgfcafl](https://chrome.google.com/webstore/detail/goodbye-registration-sema/dicinhcfdljimdfccohbcdbbmjgfcafl)
